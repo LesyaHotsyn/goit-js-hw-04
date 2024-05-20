@@ -29,4 +29,4 @@ console.log(profile.getInfo()); // "Marco has 320 active hours!"
 
 profile.changeUsername("Sandra");
 profile.updatePlayTime(-320);
-console.log(profile.getInfo()); // Sandra has no time for games:)
+console.log(profile.getInfo()); // Sandra doesn't have time to play games
